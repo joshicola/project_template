@@ -1,0 +1,9 @@
+#!/bin/bash
+
+server=ubrainier
+cur_dir=$PWD
+
+echo "Syncing $cur_dir to $server"
+echo "Press any key to continue or Ctrl-C to cancel"
+echo "rsync -alvz --exclude \".cache\" . $server:$cur_dir/"
+rsync -alvz --exclude ".cache"  --exclude ".venv" . $server:$cur_dir/
