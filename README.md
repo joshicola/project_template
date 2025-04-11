@@ -130,7 +130,7 @@ Links and references are used to link to other documents, websites, or resources
 
 There are many other features of Markdown that can be used to create richly formatted documents. These include headings, bold and italic text, tables, images, and more. Markdown is a versatile and powerful tool for creating structured documents.
 
-See a Markdown cheatsheet for more information on how to use Markdown.
+See a [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) for more information on how to use Markdown.
 
 #### Meeting_Notes.md
 
