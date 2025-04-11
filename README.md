@@ -11,12 +11,14 @@ A colleague went to a Python Coding Boot Camp back in 2014 and came back with th
     - [working\_repositories](#working_repositories)
   - [Data Directory](#data-directory)
   - [Docs Directory](#docs-directory)
+    - [Presentations Folder](#presentations-folder)
     - [Notes.md](#notesmd)
       - [Code Blocks](#code-blocks)
       - [Lists](#lists)
       - [Links and References](#links-and-references)
       - [Other Markdown Features](#other-markdown-features)
     - [Meeting\_Notes.md](#meeting_notesmd)
+    - [User Story Writing Guidelines](#user-story-writing-guidelines)
   - [Downloads Directory](#downloads-directory)
 - [Example Project](#example-project)
 - [Executable Script](#executable-script)
@@ -83,6 +85,12 @@ The `Docs` directory contains all of the rough documentation for the project. Th
 
 At times I will other important information (`API_Keys.md`, `References.md`, `Resources.md`, etc.) in this directory.
 
+#### Presentations Folder
+
+I like to store project-specific presentations in the `Docs` directory under a `Presentations` folder. This keeps all of the project-related presentations in one place.
+
+The presentation included, [2024.04.26.From_POC_to_Production_a_Pathway.pdf](./2024.10.19.Project.Template/Docs/Presentations/2024.04.26.From_POC_to_Production_a_Pathway.pdf) reviews tools and techniques that I have used to take a project from a proof-of-concept to production. It is a good example of how to structure a presentation.
+
 #### Notes.md
 
 This is the most important document in the project. It is a place to wrestle with ideas, problems, and potential solutions in a written form. A Table-of-Contents becomes a quick-reference for the document and a means to rapidly browse through the document. Using timestamped and topic-stamped entries becomes a means to track the progression of ideas and solutions. This document is a "mineable" resource that can be searched through and used as a basis for an LLM Q&A system.
@@ -127,6 +135,10 @@ See a Markdown cheatsheet for more information on how to use Markdown.
 #### Meeting_Notes.md
 
 This document is used to record notes from meetings with clients or team members. It is a place to document what was discussed, what was agreed upon, and what action items need to be completed before the next meeting. Keeping a record of meetings helps to ensure that everyone is on the same page and that nothing gets forgotten.
+
+#### User Story Writing Guidelines
+
+This document is a guideline for writing clear and concise "User Stories". These are used to define the requirements for a project and to ensure that everyone is on the same page. It is a good idea to have a clear understanding of the requirements before starting a project, and this document provides a structured approach to writing User Stories.
 
 ### Downloads Directory
 
