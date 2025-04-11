@@ -89,7 +89,7 @@ At times I will other important information (`API_Keys.md`, `References.md`, `Re
 
 I like to store project-specific presentations in the `Docs` directory under a `Presentations` folder. This keeps all of the project-related presentations in one place.
 
-The presentation included, [2024.04.26.From_POC_to_Production_a_Pathway.pdf](./2024.10.19.Project.Template/Docs/Presentations/2024.04.26.From_POC_to_Production_a_Pathway.pdf) reviews tools and techniques that I have used to take a project from a proof-of-concept to production. It is a good example of how to structure a presentation.
+The presentation included, [2024.04.26.From_POC_to_Production_a_Pathway.pdf](./2024.10.19.Project.Template/Docs/Presentations/2024.04.26.From_POC_to_Production_a_Pathway.pdf), reviews tools and techniques that I have used to take a project from a proof-of-concept to production. It is a good example of how to structure a presentation.
 
 #### Notes.md
 
@@ -138,7 +138,7 @@ This document is used to record notes from meetings with clients or team members
 
 #### User Story Writing Guidelines
 
-This document is a guideline for writing clear and concise "User Stories". These are used to define the requirements for a project and to ensure that everyone is on the same page. It is a good idea to have a clear understanding of the requirements before starting a project, and this document provides a structured approach to writing User Stories.
+[User Story Writing Guidelines](./2024.10.19.Project.Template/Docs/User_Story_Writing_Guidelines.md) is a guideline for writing clear and concise "User Stories". These are used to define the requirements for a project and to ensure that everyone is on the same page. It is a good idea to have a clear understanding of the requirements before starting a project, and this document provides a structured approach to writing User Stories.
 
 ### Downloads Directory
 
