@@ -47,6 +47,8 @@ Each project is organized into the following directories:
 │       └── repository_6/
 ├── Data/
 ├── Docs/
+│   ├── Presentations/
+│   │   └── 2024.04.26.From_POC_to_Production_a_Pathway.pdf
 │   ├── Meeting_Notes.md
 │   └── Notes.md
 └── Downloads/
