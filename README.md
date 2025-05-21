@@ -85,7 +85,7 @@ The `Docs` directory contains all of the rough documentation for the project. Th
 - [Notes.md](#notesmd)
 - [Meeting_Notes.md](#meeting_notesmd)
 
-At times I will other important information (`API_Keys.md`, `References.md`, `Resources.md`, etc.) in this directory.
+At times I will create documents for other important information (`API_Keys.md`, `References.md`, `Resources.md`, `Links.md`,..., etc.) in this directory.
 
 #### Presentations Folder
 
