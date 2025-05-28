@@ -164,7 +164,7 @@ An example project that uses this template is included in [this repository](2024
 
 The `.bin/` directory contains the following scripts:
 
-- `make_project.sh`: script that can be used to create a new project using this template. It takes a project name as an argument and creates a new directory with that name containing the project template.
+- `make_project.sh`: script that can be used to create a new project using this template. It takes a project name as an argument and creates a new directory with that name containing the project template prefixed by today's date.
 - `rsync_to_server`: script to recursively rsync the contents of the current directory to the matching directory on the server. It is useful for coordinating the development between a laptop and a desktop. CAUTION: This script will overwrite any files on the server that are modified on the local machine. It is a one-way sync. It will also try to copy all of the Data/ directory, which may be larger than expected. See the documentation for `rsync` for more information on how to repress certain directories.
 - `rsync_from_server`: script to recursively rsync the contents of the server directory to the matching directory on the local machine. It is useful for coordinating the development between a laptop and a desktop. CAUTION: This script will overwrite any files on the server that are modified on the local machine. It is a one-way sync. It will also try to copy all of the Data/ directory, which may be larger than expected. See the documentation for `rsync` for more information on how to repress certain directories.
 
