@@ -87,6 +87,8 @@ This helps in **tracking artifacts** and ensuring the story’s successful compl
 process so that I can quickly and easily install and configure the HPC client on my HPC
 Cluster."
 
+> **Note:** HPC = High-Performance Computing
+
 ### Acceptance Criteria
 
 - [x] A research spike is performed to identify necessary tools.
