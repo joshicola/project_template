@@ -30,6 +30,8 @@ Other frameworks include:
   - [Downloads Directory](#downloads-directory)
 - [Example Project](#example-project)
 - [Executable Script](#executable-script)
+- [IDE Integration](#ide-integration)
+  - [VS Code Extensions](#vs-code-extensions)
 - [Conclusion](#conclusion)
 
 ## Project Structure
@@ -167,6 +169,20 @@ The `.bin/` directory contains the following scripts:
 - `rsync_from_server`: script to recursively rsync the contents of the server directory to the matching directory on the local machine. It is useful for coordinating the development between a laptop and a desktop. CAUTION: This script will overwrite any files on the server that are modified on the local machine. It is a one-way sync. It will also try to copy all of the Data/ directory, which may be larger than expected. See the documentation for `rsync` for more information on how to repress certain directories.
 
 These scripts can be marked as executable, but into the PATH, and used to create new projects or sync the contents of the project between a laptop and a desktop.
+
+## IDE Integration
+
+I use VS Code heavily with this project structure. I find that opening the entire project at the top level gives me access to all of the files and directories at a glance. VS Code will reflect all of the changes to the nested repositories. One of the "habits" is being able to have a "high-level" view of the project and quickly drill down into specific areas.
+
+### VS Code Extensions
+
+As noted in the enclosed [presentation](./2024.10.19.Project.Template/Docs/Presentations/2024.04.26.From_POC_to_Production_a_Pathway.pdf), the following VS Code extensions are useful for working with this project structure:
+
+- [Markdown-All-in-One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+  - Table-of-Contents
+  - Auto-Preview
+- [Insert Date String](https://marketplace.visualstudio.com/items?itemName=jsynowiec.vscode-insertdatestring)
+- [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
 
 ## Conclusion
 
