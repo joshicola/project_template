@@ -2,6 +2,14 @@
 
 A colleague went to a Python Coding Boot Camp back in 2014 and came back with the bones of this project template. It has evolved over the years and is now the basis for all of the new projects that I work on. It is a simple, yet effective way to organize and annotate a project. I will go over the structure of the project template in this document.
 
+A simple reminder: This is a framework to support a system of habits for working with a project. It is the system of consistently applied habits--rather than the framework--that is important.
+
+Other frameworks include:
+
+- [Notion](https://www.notion.so/)
+- [Obsidian](https://obsidian.md/)
+- [Clickup](https://clickup.com/)
+
 ## Table of Contents <!-- omit in toc -->
 
 - [Project Structure](#project-structure)
