@@ -184,6 +184,8 @@ As noted in the enclosed [presentation](./2024.10.19.Project.Template/Docs/Prese
 - [Insert Date String](https://marketplace.visualstudio.com/items?itemName=jsynowiec.vscode-insertdatestring)
 - [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
 
+Many of the other extensions I reference are for a Python-heavy workflow. However, the structure of the project is not Python-specific and can be applied to any language or project type.
+
 ## Conclusion
 
 This project template is a simple, yet effective way to organize and annotate a project. It provides a clear structure for the project and helps to keep everything organized. It is a good starting point for new projects and can be easily customized to fit the needs of any project. Using this template has allowed me to get back up to speed with old projects rapidly with the recorded context.
